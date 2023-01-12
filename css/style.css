@@ -9,9 +9,11 @@
 
 body {
     background-image: url("../img/howl.jpg");
-    background-position: center;
-    background-size: 2500px;
     background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    text-align: center;
 }
 
 button {
